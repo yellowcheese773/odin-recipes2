@@ -1,6 +1,7 @@
 button{
     font-weight: bold;
-    font-family: 'Verdana'; 
+    font-family: 'Verdana';
+    background-color: silver; 
 }
 
 h1, h3, ol, ul{
